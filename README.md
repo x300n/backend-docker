@@ -19,7 +19,7 @@ Install all packages with `npm install`
 
 To start the server in production mode: `npm start`
 
-Test that the project is running by going to <http://localhost:8888>
+Test that the project is running by going to <http://localhost:8000>
 
 ## Accepting connections
 
